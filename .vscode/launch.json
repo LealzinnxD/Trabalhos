@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MatirzTridimensional",
+            "request": "launch",
+            "mainClass": "MatirzTridimensional",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizBidimensional",
+            "request": "launch",
+            "mainClass": "MatrizBidimensional",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona9",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona9",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona8",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona8",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona7",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona7",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona6",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona6",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona5",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona5",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona4",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona4",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona3",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona3",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensiona2",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensiona2",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao10",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao10",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao11",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao11",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao12",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao12",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao13",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao13",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao14",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao14",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao6",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao6",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao7",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao7",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao8",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao8",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDecisao9",
+            "request": "launch",
+            "mainClass": "EstruturaDecisao9",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor10",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor10",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor11",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor11",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor12",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor12",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor13",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor13",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor2",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor2",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor3",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor3",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor4",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor4",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor5",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor5",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor6",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor6",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor7",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor7",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor8",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor8",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoFor9",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoFor9",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_10",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_10",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_11",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_11",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_12",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_12",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_13",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_13",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_14",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_14",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_2",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_2",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_3",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_3",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_4",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_4",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_5",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_5",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_6",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_6",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_7",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_7",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_8",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_8",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRepeticaoWhile_9",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticaoWhile_9",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "MatrizUnidimensional",
+            "request": "launch",
+            "mainClass": "MatrizUnidimensional",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho",
+            "request": "launch",
+            "mainClass": "Trabalho",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho11",
+            "request": "launch",
+            "mainClass": "Trabalho11",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho12",
+            "request": "launch",
+            "mainClass": "Trabalho12",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho13",
+            "request": "launch",
+            "mainClass": "Trabalho13",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho14",
+            "request": "launch",
+            "mainClass": "Trabalho14",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho2",
+            "request": "launch",
+            "mainClass": "Trabalho2",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho3",
+            "request": "launch",
+            "mainClass": "Trabalho3",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho4",
+            "request": "launch",
+            "mainClass": "Trabalho4",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho5",
+            "request": "launch",
+            "mainClass": "Trabalho5",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho6",
+            "request": "launch",
+            "mainClass": "Trabalho6",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho7",
+            "request": "launch",
+            "mainClass": "Trabalho7",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho8",
+            "request": "launch",
+            "mainClass": "Trabalho8",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        },
+        {
+            "type": "java",
+            "name": "Trabalho9e10",
+            "request": "launch",
+            "mainClass": "Trabalho9e10",
+            "projectName": "EstruturaDecisao_f6d190d2"
+        }
+    ]
+}
